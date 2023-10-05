@@ -36,7 +36,6 @@ Ans:
               ls -a***
 3. Save file and change permission <br>
          ***sudo chmod +x /usr/local/bin/describe*** <br>
-
 4.Execute describe command
 
 #Question 4 : Users can put a compressed file at any path of the linux file system. The name of the file will be research and the extension will be of compression type, example for gzip type extension will be .gz.
