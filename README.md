@@ -24,7 +24,18 @@ Ans:
          ***sudo passwd username***  <br>
 3. By default newly created user will not have sudo permissions
 
-#Question 3 : Configure your system in such a way that when a user type and executes a describe command from anywhere of the system it must list all the files and folders of the user's current directory.
+#Question 3 : Configure your system in such a way that when a user type and executes a describe command from anywhere of the system it must list all the files and folders of the user's current directory. <br>
+Ans:
+1. Create a file name describe. <br>
+          ***sudo nano /usr/local/bin/describe*** <br>
+
+2. Add script in describe. <br>
+          ***sudo nano describe*** <br>
+          paste <br>
+          ***#!/bin/bash
+              ls -a***
+   
+
          
     
      
