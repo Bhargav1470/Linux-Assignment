@@ -28,7 +28,7 @@ Ans:
 Ans:
 1. Create a file name describe. <br>
           ***sudo nano /usr/local/bin/describe*** <br>
-
+ 
 2. Add script in describe. <br>
           ***sudo nano describe*** <br>
           add <br>
