@@ -62,11 +62,11 @@ Ans :
 1. Create a file showtime.sh to write shell script <br>
           ***sudo nano showtime.sh***
           write script <br>
-          `#!/bin/bash 
-             while true; do 
-                 date >>"/home/sigmoid/showtime.txt"
-                 sleep 60
-              done`
+          ***#!/bin/bash <br>
+             while true; do <br>
+                 date >>"/home/sigmoid/showtime.txt" <br>
+                 sleep 60 <br>
+              done*** <br>
 
          
          
