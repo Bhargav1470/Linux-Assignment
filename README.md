@@ -13,6 +13,20 @@ Ans :
          ***sudo apt install mailutils*** <br>
 5. Send a mail. <br>
          ***echo 'enter body' | mail -s 'enter subject' receiver@gamil.com***
+
+#Question 2 : Create a user in your localhost, which should not be able to execute the sudo command. <br>
+Ans: 
+1. To create user (to create in bash) <br>
+         ***sudo useradd -g groupname -s /bin/bash -c "description" -m -d /home/username username*** <br>
+       to create in default shell <br>
+         ***sudo useradd username*** <br>
+2. To add password. <br>
+         ***sudo passwd username***  <br>
+3. By default newly created user will not have sudo permissions
+         
+    
+     
+
          
 
 
