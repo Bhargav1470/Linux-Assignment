@@ -8,7 +8,7 @@ Ans :
      then u can give system mail name for ex : host.example.com
 3. After configuration, make changes in main.cf file present in /etc/postfix/main.cf <br>
          ***sudo nano /etc/postfix/main.cf***  <br>
-   editor will open, scroll down make change in ***inet_interfaces*** from ***all*** to ***loopback-only***. <br>
+   editor will open, scroll down make change in  ***inet_interfaces***  from  ***all***  to  ***loopback-only***. <br>
 4. 
 
 
