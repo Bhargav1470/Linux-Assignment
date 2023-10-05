@@ -11,7 +11,7 @@ Ans :
    editor will open, scroll down make change in ***inet_interfaces*** from ***all*** to ***loopback-only***. <br>
 4. Install mailutils. <br>
          ***sudo apt install mailutils*** <br>
-5. Send a mail.
+5. Send a mail. <br>
          ***echo 'enter body' | mail -s 'enter subject' receiver@gamil.com***
          
 
