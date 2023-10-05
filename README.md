@@ -87,6 +87,20 @@ Ans :
     [Install]
     WantedBy=multi-user.target
     ```
+ 4. Give permission to script file <br>
+          ***chmod a+x showtime.sh*** <br>
+
+ 5. Reload systemd
+          ***sudo systemctl daemon-reload*** <br>
+        enable showtime sevice
+          ***sudo systemctl enable showtime.service*** <br>
+        start showtime service
+          ***sudo systemctl start showtime.service*** <br>
+        to check showtime service
+          ***sudo systemctl status showtime.service*** <br>
+        to see contents of showtime.txt
+          ***cat showtime.txt***
+
 
       
           
