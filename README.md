@@ -23,6 +23,8 @@ Ans:
 2. To add password. <br>
          ***sudo passwd username***  <br>
 3. By default newly created user will not have sudo permissions
+
+#Question 3 : Configure your system in such a way that when a user type and executes a describe command from anywhere of the system it must list all the files and folders of the user's current directory.
          
     
      
