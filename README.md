@@ -12,7 +12,7 @@ Ans :
 4. Install mailutils. <br>
          ***sudo apt install mailutils*** <br>
 5. Send a mail. <br>
-         ***echo 'enter body' | mail -s 'enter subject' receiver@gamil.com***
+         ***echo 'enter body' | mail -s 'enter subject' receivermailid@gamil.com***
 
 #Question 2 : Create a user in your localhost, which should not be able to execute the sudo command. <br>
 Ans: 
