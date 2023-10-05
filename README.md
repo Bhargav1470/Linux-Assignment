@@ -72,7 +72,10 @@ Ans :
    done
    ```
 
- 3. Create a service             
+ 3. Create a service
+          ***sudo nano /etc/systemd/system/showtime.service*** <br>
+          write script <br>
+          
 
          
          
