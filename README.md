@@ -92,13 +92,13 @@ Ans :
 
  5. Reload systemd
           ***sudo systemctl daemon-reload*** <br>
-        enable showtime sevice
+        enable showtime sevice <br>
           ***sudo systemctl enable showtime.service*** <br>
-        start showtime service
+        start showtime service <br>
           ***sudo systemctl start showtime.service*** <br>
-        to check showtime service
+        to check showtime service <br>
           ***sudo systemctl status showtime.service*** <br>
-        to see contents of showtime.txt
+        to see contents of showtime.txt <br>
           ***cat showtime.txt***
 
 
