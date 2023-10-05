@@ -90,7 +90,7 @@ Ans :
  4. Give permission to script file <br>
           ***chmod a+x showtime.sh*** <br>
 
- 5. Reload systemd
+ 5. Reload systemd <br>
           ***sudo systemctl daemon-reload*** <br>
         enable showtime sevice <br>
           ***sudo systemctl enable showtime.service*** <br>
