@@ -99,7 +99,7 @@ Ans :
         to check showtime service <br>
           ***sudo systemctl status showtime.service*** <br>
         to see contents of showtime.txt <br>
-          ***cat showtime.txt***
+          ***cat showtime.txt*** <br>
         to stop sevice<br>
           ***sudo systemctl stop showtime.service*** 
 
