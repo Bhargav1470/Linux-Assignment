@@ -64,9 +64,9 @@ Ans :
           write script <br>
    ```
    #!/bin/bash 
-   while true; do 
-            date >>"/home/sigmoid/showtime.txt" 
-            sleep 60 
+   while true; do
+       date >>"/home/sigmoid/showtime.txt" 
+       sleep 60 
    done
    ```
 
