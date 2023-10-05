@@ -32,10 +32,10 @@ Ans:
 2. Add script in describe. <br>
           ***sudo nano describe*** <br>
           add <br>
-          ```
-          #!/bin/bash <br>
-              ls -a
-          ```
+   ```
+   #!/bin/bash 
+   ls -a
+   ```
 4. Save file and change permission <br>
          ***sudo chmod +x /usr/local/bin/describe*** <br>
          
