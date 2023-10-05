@@ -59,7 +59,15 @@ Ans :
          
 #Question 6 : Create a service with the name showtime , after starting the service, every minute it should print the current time in a file in the user home directory. <br>
 Ans :
-1. 
+1. Create a file showtime.sh to write shell script <br>
+          ***sudo nano showtime.sh***
+          write script <br>
+          `#!/bin/bash 
+             while true; do 
+                 date >>"/home/sigmoid/showtime.txt"
+                 sleep 60
+              done`
+
          
          
 
