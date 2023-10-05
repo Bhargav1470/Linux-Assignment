@@ -75,6 +75,20 @@ Ans :
  3. Create a service <br>
           ***sudo nano /etc/systemd/system/showtime.service*** <br>
           write script <br>
+    ```
+    [Unit]
+    Description=Showtime Service
+
+    [Service]
+    WorkingDirectory=/home/sigmoid/
+    ExecStart=/home/sigmoid/showtime.sh
+    Restart=always
+
+    [Install]
+    WantedBy=multi-user.target
+    ```
+
+      
           
 
          
