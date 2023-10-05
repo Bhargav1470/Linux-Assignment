@@ -6,5 +6,8 @@ Ans :
         ***sudo apt install postfix***
 2. A window will open for postfix configuration ,select internet site, press tab >>enter <br>
      then u can give system mail name for ex : host.example.com
-3. After configuration    
+3. After configuration, make changes in main.cf file present in /etc/postfix/main.cf
+         ***sudo nano /etc/postfix/main.cf***
+4.
+
      
