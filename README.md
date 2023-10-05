@@ -49,6 +49,12 @@ Ans:
         for zip file <br>
          ***unzip path filename*** <br>
 
+#Question 5 : Configure your system in such a way that any user of your system creates a file then there should not be permission to do any activity in that file. <br>
+Ans :
+1.
+
+
+
  
 
          
