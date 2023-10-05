@@ -31,7 +31,7 @@ Ans:
 
 2. Add script in describe. <br>
           ***sudo nano describe*** <br>
-          paste <br>
+          add <br>
           ***#!/bin/bash <br>
               ls -a***
    
