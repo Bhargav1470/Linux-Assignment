@@ -65,8 +65,8 @@ Ans :
    ```
    #!/bin/bash 
    while true; do 
-   date >>"/home/sigmoid/showtime.txt" 
-   sleep 60 
+            date >>"/home/sigmoid/showtime.txt" 
+            sleep 60 
    done
    ```
 
