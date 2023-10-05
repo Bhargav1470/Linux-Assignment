@@ -56,7 +56,7 @@ Ans :
 1. Use umask command for specific session. <br>
          ***umask 0777***
 2. Apply umask to root. <br>
-         ***sudo nano /etc/login.defs***  or  ***sudo nano bash.bashrc*** <br>
+         ***sudo nano /etc/login.defs***   (or)   ***sudo nano bash.bashrc*** <br>
          scroll down change umask 022 to 0777 <br>
          
 #Question 6 : Create a service with the name showtime , after starting the service, every minute it should print the current time in a file in the user home directory. <br>
