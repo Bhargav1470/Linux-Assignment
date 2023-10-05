@@ -46,7 +46,7 @@ Ans:
          ***find / -type f -iname "research.*" 2>/dev/null | egrep "\.(zip|gz|tar|bz2|xz)$"*** <br>
 
 2. Based on file extension use the command to unzip <br>
-        for zip file 
+        for zip file <br>
          ***unzip path filename*** <br>
 
  
