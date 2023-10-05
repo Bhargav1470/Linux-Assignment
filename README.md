@@ -100,6 +100,8 @@ Ans :
           ***sudo systemctl status showtime.service*** <br>
         to see contents of showtime.txt <br>
           ***cat showtime.txt***
+        to stop sevice<br>
+          ***sudo systemctl stop showtime.service*** 
 
 
       
