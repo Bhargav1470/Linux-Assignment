@@ -64,7 +64,7 @@ Ans :
           write script <br>
           ***#!/bin/bash <br>
              while true; do <br>
-                 date >>"/home/sigmoid/showtime.txt" <br>
+                &ensp date >>"/home/sigmoid/showtime.txt" <br>
                  sleep 60 <br>
               done*** <br>
 
